@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Tudor",
+      "lastName": "Burrage",
+      "email": "tburrage0@comcast.net",
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Constantine",
+      "lastName": "Pundy",
+      "email": "cpundy1@home.pl",
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "firstName": "Inness",
+      "lastName": "Brittain",
+      "email": "ibrittain2@berkeley.edu",
+      "companyId": "1"
+    },
+    {
+      "id": "4",
+      "firstName": "Van",
+      "lastName": "McCurrie",
+      "email": "vmccurrie3@patch.com",
+      "companyId": "2"
+    },
+    {
+      "id": "5",
+      "firstName": "Bertine",
+      "lastName": "Butterwick",
+      "email": "bbutterwick4@google.com.hk",
+      "companyId": "2"
+    },
+    {
+      "id": "6",
+      "firstName": "Neile",
+      "lastName": "Fronek",
+      "email": "nfronek5@wikia.com",
+      "companyId": "2"
+    },
+    {
+      "id": "7",
+      "firstName": "Mendie",
+      "lastName": "Heggs",
+      "email": "mheggs6@noaa.gov",
+      "companyId": "2"
+    },
+    {
+      "id": "8",
+      "firstName": "Allan",
+      "lastName": "Benne",
+      "email": "abenne7@biglobe.ne.jp",
+      "companyId": "3"
+    },
+    {
+      "id": "9",
+      "firstName": "Scarface",
+      "lastName": "Ambroz",
+      "email": "sambroz8@baidu.com",
+      "companyId": "3"
+    },
+    {
+      "id": "10",
+      "firstName": "Nester",
+      "lastName": "McKeighan",
+      "email": "nmckeighan9@ft.com",
+      "companyId": "3"
+    },
+    {
+      "firstName": "No",
+      "lastName": "Name",
+      "email": "noname@email.com",
+      "companyId": "3",
+      "id": "Yby05N5"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "There are plenty of great data mocking libraries available for almost every language and platform. But not everyone is a programmer or has time to learn a new framework. Mockaroo allows you to quickly and easily to download large amounts of randomly generated test data based on your own specs which you can then load directly into your test environment using SQL or CSV formats. No programming is required."
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "There are plenty of great data mocking libraries available for almost every language and platform. But not everyone is a programmer or has time to learn a new framework. Mockaroo allows you to quickly and easily to download large amounts of randomly generated test data based on your own specs which you can then load directly into your test environment using SQL or CSV formats. No programming is required."
+    },
+    {
+      "id": "3",
+      "name": "Microsoft",
+      "description": "There are plenty of great data mocking libraries available for almost every language and platform. But not everyone is a programmer or has time to learn a new framework. Mockaroo allows you to quickly and easily to download large amounts of randomly generated test data based on your own specs which you can then load directly into your test environment using SQL or CSV formats. No programming is required."
+    }
+  ]
+}
